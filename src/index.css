@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "young-serif";
+    font-style: normal;
+    src: url("/src/assets/recipe_page/fonts/young-serif/YoungSerif-Regular.ttf")
+      format("truetype");
+  }
+  @font-face {
+    font-family: "outfit";
+    font-style: normal;
+    src: url("/src/assets/recipe_page/fonts/outfit/Outfit-VariableFont_wght.ttf")format("truetype");;
+  }
+}

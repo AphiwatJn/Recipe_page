@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Outfit';
+    src: url('/src/assets/recipe_page/fonts/outfit/Outfit-VariableFont_wght.ttf') format('ttf');
+  }
+
+  @font-face {
+    font-family: 'YoungSerif';
+    src: url('/src/assets/recipe_page/fonts/young-serif/YoungSerif-Regular.ttf') format('ttf');
+    font-weight: 400;
+  }
