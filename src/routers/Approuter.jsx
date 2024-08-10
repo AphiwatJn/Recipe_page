@@ -15,7 +15,7 @@ const MainLayout = () =>{
 
 const main = createBrowserRouter([
     {
-        path: '/',
+        path: '/recipe_page',
         element : <MainLayout/>,
         children:[
             {index : true , element: <Recipe_Page/>},
